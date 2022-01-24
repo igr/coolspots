@@ -1,11 +1,10 @@
 plugins {
     id("org.jetbrains.kotlin.jvm") version "${kotlinVersion}"
-    id("org.jetbrains.kotlin.plugin.serialization") version "${kotlinVersion}"
     id("com.github.johnrengelman.shadow") version "7.1.0"
 }
 
 version = "1.0.0-SNAPSHOT"
-group = "rs.igo.coolspots"
+group = "ac.obl.coolspots"
 
 repositories {
     mavenCentral()
