@@ -4,7 +4,9 @@ Database of cool spots, recommended by the locals.
 
 **110** cities, **85600+** spots, **47600+** recommendations!
 
-The content has been extracted from the iOS application that does not exist anymore. Since the app was free, I took the content in order to preserve it.
+> The content has been extracted from the iOS application that does not exist anymore. Since the app was free, I took the content in order to preserve it.
+
+Wanna join and build an app together?
 
 ## Usage
 
@@ -14,5 +16,5 @@ Once loaded, the database may be converted to any other format.
 
 Use it with:
 
-+ Google Earth
-+ (Organic Maps)[https://organicmaps.app]
++ Google Earth/Maps
++ [Organic Maps](https://organicmaps.app) - great offline maps

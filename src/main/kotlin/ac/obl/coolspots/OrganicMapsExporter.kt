@@ -11,6 +11,7 @@ import java.io.File
 
 fun main() {
     loadCoolSpotsDatabases()
+    File("out").mkdirs()
 
     Destinations
         .map { Spots.of(it) }
